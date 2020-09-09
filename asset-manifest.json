@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nancy611/Github-Compare/static/css/main.0978bbbb.chunk.css",
+    "main.js": "/Nancy611/Github-Compare/static/js/main.9b81f8be.chunk.js",
+    "main.js.map": "/Nancy611/Github-Compare/static/js/main.9b81f8be.chunk.js.map",
+    "runtime-main.js": "/Nancy611/Github-Compare/static/js/runtime-main.86b39777.js",
+    "runtime-main.js.map": "/Nancy611/Github-Compare/static/js/runtime-main.86b39777.js.map",
+    "static/js/2.f1ca1655.chunk.js": "/Nancy611/Github-Compare/static/js/2.f1ca1655.chunk.js",
+    "static/js/2.f1ca1655.chunk.js.map": "/Nancy611/Github-Compare/static/js/2.f1ca1655.chunk.js.map",
+    "index.html": "/Nancy611/Github-Compare/index.html",
+    "precache-manifest.a3585aefbd5279ae67d0632d026815e1.js": "/Nancy611/Github-Compare/precache-manifest.a3585aefbd5279ae67d0632d026815e1.js",
+    "service-worker.js": "/Nancy611/Github-Compare/service-worker.js",
+    "static/css/main.0978bbbb.chunk.css.map": "/Nancy611/Github-Compare/static/css/main.0978bbbb.chunk.css.map",
+    "static/js/2.f1ca1655.chunk.js.LICENSE.txt": "/Nancy611/Github-Compare/static/js/2.f1ca1655.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Nancy611/Github-Compare/static/media/pexels-bess-hamiti-36764.cb00d56c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86b39777.js",
+    "static/js/2.f1ca1655.chunk.js",
+    "static/css/main.0978bbbb.chunk.css",
+    "static/js/main.9b81f8be.chunk.js"
+  ]
+}

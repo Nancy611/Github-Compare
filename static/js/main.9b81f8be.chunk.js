@@ -1,0 +1,2 @@
+(this.webpackJsonpmyreact=this.webpackJsonpmyreact||[]).push([[0],{3:function(e,t,n){e.exports=n(4)},4:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n.n(r),o=n(2),a=n.n(o);n(9);a.a.render(c.a.createElement("form",null," "),document.getElementById("root"))},9:function(e,t,n){}},[[3,1,2]]]);
+//# sourceMappingURL=main.9b81f8be.chunk.js.map
